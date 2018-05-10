@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "218540838734",
+    "firebase_url": "https://florida-expo-app.firebaseio.com",
+    "project_id": "florida-expo-app",
+    "storage_bucket": "florida-expo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218540838734:android:72b1f8a0e4060e3a",
+        "android_client_info": {
+          "package_name": "com.example.adri9ps.florida_expo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218540838734-82n7p0sm9he9j8v6h33atoks78l8fui2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adri9ps.florida_expo_app",
+            "certificate_hash": "682fad8be6202cf6781bb2eef2da9679267d36dd"
+          }
+        },
+        {
+          "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrDR3yu1nsuX9i08Va7uJWjv7ahLgv8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218540838734:android:8e046e1df4c7b609",
+        "android_client_info": {
+          "package_name": "com.example.adri9ps.floridaexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218540838734-t0npk0k0b77agmvgnsoqokgb924st7uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adri9ps.floridaexpo",
+            "certificate_hash": "682fad8be6202cf6781bb2eef2da9679267d36dd"
+          }
+        },
+        {
+          "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrDR3yu1nsuX9i08Va7uJWjv7ahLgv8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218540838734:android:3c969befdfd9f06e",
+        "android_client_info": {
+          "package_name": "com.example.adri9ps.floridaexpo_adrianpoveda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218540838734-a147acj1q5tc8dea2ob8j658c7uvqh4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adri9ps.floridaexpo_adrianpoveda",
+            "certificate_hash": "682fad8be6202cf6781bb2eef2da9679267d36dd"
+          }
+        },
+        {
+          "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrDR3yu1nsuX9i08Va7uJWjv7ahLgv8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218540838734:android:c3930670ae987367",
+        "android_client_info": {
+          "package_name": "com.example.adri9ps.floridaexpoadri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218540838734-p79u7pc9u3v7eom4aks3mtuh4q49ecf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adri9ps.floridaexpoadri",
+            "certificate_hash": "682fad8be6202cf6781bb2eef2da9679267d36dd"
+          }
+        },
+        {
+          "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrDR3yu1nsuX9i08Va7uJWjv7ahLgv8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218540838734-26cjmlr9lv01p55lnphadagigab2hdcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
