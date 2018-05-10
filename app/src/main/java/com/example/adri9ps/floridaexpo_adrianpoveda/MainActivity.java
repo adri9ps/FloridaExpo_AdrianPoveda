@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity
     private RecyclerView.LayoutManager mLayoutManager;
     ArrayList<Proyecto> proyectos;
     ArrayList<String> llavesProyectos;
+    
 
 
     @Override
